@@ -1,0 +1,7 @@
+########
+#BGRBGR#
+#      #
+#   X  #
+########
+
+Game Over, Total Score : 0 

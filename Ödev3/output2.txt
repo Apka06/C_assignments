@@ -1,0 +1,14 @@
+########
+#BGRBGR#
+#      #
+#   X  #
+########
+
+Score: 1
+########
+#BGR GR#
+#      #
+#   X  #
+########
+
+Game Over, Total Score : 1 

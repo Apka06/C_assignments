@@ -1,0 +1,60 @@
+################
+#BGRBGRBBRRGBBG#
+#RBGRBRGRBRGRBR#
+#GR            #
+#              #
+#              #
+#              #
+#              #
+#      X       #
+################
+
+Score: 1
+################
+#BGRBGRBBRRGBBG#
+#RBGR RGRBRGRBR#
+#GR            #
+#              #
+#              #
+#              #
+#              #
+#    X         #
+################
+
+Score: 4
+################
+#BGRBGRBBRRGBBG#
+#RBGR  GRBRGRBR#
+#GR            #
+#              #
+#              #
+#              #
+#              #
+#     X        #
+################
+
+Score: 7
+################
+#BGRBG BBRRGBBG#
+#RBGR  GRBRGRBR#
+#GR            #
+#              #
+#              #
+#              #
+#              #
+#     X        #
+################
+
+Score: 9
+################
+#BGRBG BBRRGBBG#
+#RBGR   RBRGRBR#
+#GR            #
+#              #
+#              #
+#              #
+#              #
+#      X       #
+################
+
+Game Over, Total Score : 9 
